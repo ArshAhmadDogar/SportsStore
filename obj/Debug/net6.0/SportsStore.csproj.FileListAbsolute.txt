@@ -58,3 +58,4 @@ D:\DotNet\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\
 D:\DotNet\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
 D:\DotNet\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
 D:\DotNet\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
+D:\DotNet\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

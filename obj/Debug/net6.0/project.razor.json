@@ -12,6 +12,314 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 479346713,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Routed",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Routed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Routed"
+        }
+      },
+      {
+        "HashCode": 601038284,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Routed",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Routed"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Routed",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -903939292,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.OrderTable",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "OrderTable"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TableTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TableTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Orders",
+            "TypeName": "System.Collections.Generic.IEnumerable<SportsStore.Models.Order>",
+            "Metadata": {
+              "Common.PropertyName": "Orders"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonLabel",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonLabel"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OrderSelected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "OrderSelected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.OrderTable"
+        }
+      },
+      {
+        "HashCode": 1164036814,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.OrderTable",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.OrderTable"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TableTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TableTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Orders",
+            "TypeName": "System.Collections.Generic.IEnumerable<SportsStore.Models.Order>",
+            "Metadata": {
+              "Common.PropertyName": "Orders"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonLabel",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonLabel"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OrderSelected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "OrderSelected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.OrderTable",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -734195212,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Orders",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Orders"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Orders"
+        }
+      },
+      {
+        "HashCode": 522614252,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Orders",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Orders"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Orders",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -768679277,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Details",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Details"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int64",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Details"
+        }
+      },
+      {
+        "HashCode": 591587148,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Details",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Details"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int64",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Details",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1579995017,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Editor",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Editor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int64",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Editor"
+        }
+      },
+      {
+        "HashCode": -1750756419,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Editor",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Editor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int64",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Editor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1489197697,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Products",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Products"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Products"
+        }
+      },
+      {
+        "HashCode": -1679960770,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.Products",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.Products"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.Products",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -587344813,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -14326,6 +14634,23 @@
         }
       },
       {
+        "HashCode": -1745604650,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__CartSummaryViewComponentTagHelper",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:cart-summary"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__CartSummaryViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "CartSummary"
+        }
+      },
+      {
         "HashCode": -670240652,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__NavigationMenuViewComponentTagHelper",
@@ -16401,13 +16726,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\Order\\Checkout.cshtml",
+      "TargetPath": "Views\\Order\\Checkout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Completed.cshtml",
+      "TargetPath": "Pages\\Completed.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
       "TargetPath": "Views\\Shared\\ProductSummary.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\Products.razor",
+      "TargetPath": "Pages\\Admin\\Products.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\Orders.razor",
+      "TargetPath": "Pages\\Admin\\Orders.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\Routed.razor",
+      "TargetPath": "Pages\\Admin\\Routed.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\IdentityUsers.cshtml",
+      "TargetPath": "Pages\\Admin\\IdentityUsers.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16416,14 +16776,29 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\Details.razor",
+      "TargetPath": "Pages\\Admin\\Details.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\_CartLayout.cshtml",
       "TargetPath": "Pages\\_CartLayout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\_Imports.razor",
+      "TargetPath": "Pages\\Admin\\_Imports.razor",
+      "FileKind": "componentImport"
     },
     {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\_ViewStart.cshtml",
@@ -16436,14 +16811,39 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\OrderTable.razor",
+      "TargetPath": "Pages\\Admin\\OrderTable.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\AdminLAyout.razor",
+      "TargetPath": "Pages\\Admin\\AdminLAyout.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\index.cshtml",
+      "TargetPath": "Pages\\Admin\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SportsSln\\SportsStore\\Pages\\Admin\\Editor.razor",
+      "TargetPath": "Pages\\Admin\\Editor.razor",
+      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"

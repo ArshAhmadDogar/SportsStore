@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+    "SportsStoreConnection": "Server=sqlserver;Database=SportsStore;Trusted_Connection=True;MultipleActiveResultSets=true;",
+    "IdentityConnection": "Server=sqlserver;Database=Identity;Trusted_Connection=True; MultipleActiveResultSets=true;"
+    } }
